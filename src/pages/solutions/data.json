@@ -1,0 +1,596 @@
+{
+  "app-development": {
+    "hero": {
+      "title": "App Development Solutions",
+      "subtitle": "Turn your idea into a functional, user-friendly application. Work with the top 1% of tech talent to create native iOS, Android, and Cross-platform solutions.",
+      "cta": "Start Your App"
+    },
+    "subServices": [
+      {
+        "title": "Custom Mobile Apps",
+        "description": "Turn your idea into a functional, user-friendly Android or iOS application. Get your app published in the Google Play Store and Apple App Store.",
+        "icon": "Smartphone",
+        "features": ["Native iOS & Android", "Scalable Architecture", "High Performance"]
+      },
+      {
+        "title": "Cross-Platform Dev",
+        "description": "Speed up development using a single codebase. We use tools like React Native and Flutter to build apps that work smoothly on all devices.",
+        "icon": "Layers",
+        "features": ["React Native / Flutter", "Cost Effective", "Consistent UI"]
+      },
+      {
+        "title": "UI/UX Design",
+        "description": "Your apps should be user-friendly and engaging. Our designers conduct user research to create responsive, navigable, and accessible designs.",
+        "icon": "Figma",
+        "features": ["User Research", "Wireframing", "Prototyping"]
+      },
+      {
+        "title": "Integration Services",
+        "description": "Add new features easily by integrating third-party APIs like Payment Gateways, Maps, and Authentication services.",
+        "icon": "Code",
+        "features": ["API Integration", "Cloud Sync", "Third-party Tools"]
+      },
+      {
+        "title": "QA and Testing",
+        "description": "Rigorous quality assurance testing using manual and automation tools to ensure your app is bug-free, secure, and performant.",
+        "icon": "ShieldCheck",
+        "features": ["Automated Testing", "Security Audits", "Performance Tuning"]
+      },
+      {
+        "title": "Migration & Updates",
+        "description": "Keep your app updated with the latest OS versions. We help migrate legacy apps to modern frameworks like Kotlin or Swift.",
+        "icon": "Zap",
+        "features": ["Legacy Migration", "OS Updates", "Feature Enhancement"]
+      }
+    ],
+    "reasons": [
+      {
+        "title": "Access Specialized Expertise",
+        "description": "It can be difficult to find the tech talent you need locally. We give you access to senior specialists with niche skill sets in weeks, not months."
+      },
+      {
+        "title": "Accelerate Development",
+        "description": "Experienced outsourced teams have established workflows in place to accelerate your app development, meaning faster time to market."
+      },
+      {
+        "title": "Remain Compliant and Secure",
+        "description": "We are knowledgeable about best security practices. Adherence to these measures ensures your app meets industry-specific regulatory requirements."
+      },
+      {
+        "title": "Retain Oversight",
+        "description": "You retain control. You'll receive regular progress updates and transparency, no matter what engagement model you choose."
+      },
+      {
+        "title": "Achieve Scalability",
+        "description": "Mobile development rarely follows a linear path. With our external teams, you can scale your engagement up or down as needed."
+      }
+    ],
+    "process": [
+      {
+        "title": "Discuss Requirements",
+        "description": "We start by discussing your goals, budget, and timeline to choose the best engagement model for your business."
+      },
+      {
+        "title": "Build Your Team",
+        "description": "We select the best-fit developers to build your app autonomously or work side-by-side with your internal team."
+      },
+      {
+        "title": "Get to Work",
+        "description": "Once assembled, we execute immediately. You retain full oversight while we deliver high-quality code sprints."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "How does outsourcing app development work?",
+        "answer": "Outsourcing involves partnering with our professional team. We offer staff augmentation, dedicated teams, or full project outsourcing depending on your level of desired involvement."
+      },
+      {
+        "question": "Can I hire developers on a full-time basis?",
+        "answer": "Yes! With our Dedicated Teams model, you can hire developers who work exclusively on your project full-time, just like remote employees."
+      },
+      {
+        "question": "Do you provide post-launch support?",
+        "answer": "Absolutely. Our Maintenance & Support services ensure your application remains updated, secure, and bug-free long after the initial launch."
+      },
+      {
+        "question": "What technologies do you support?",
+        "answer": "We support 'User Choice Technology'. Whether you prefer React Native, Flutter, Swift, Kotlin, or Python, we have experts available in your preferred stack."
+      }
+    ]
+  },
+  "web-development": {
+    "hero": {
+      "title": "Web Development Solutions",
+      "subtitle": "Responsive websites & complex web applications. From simple corporate sites to massive SaaS platforms, we build the back-bone of your digital business.",
+      "cta": "Build Your Website"
+    },
+    "subServices": [
+      {
+        "title": "Full-Stack Development",
+        "description": "End-to-end development using MERN, MEAN, or LAMP stacks. We handle the database, server, and client-side.",
+        "icon": "Code",
+        "features": ["Front-end & Back-end", "Database Management", "API Development"]
+      },
+      {
+        "title": "E-commerce Platforms",
+        "description": "Scalable online stores with secure payment processing, inventory management, and intuitive checkout flows.",
+        "icon": "Globe",
+        "features": ["Shopify / WooCommerce", "Custom Payment Gateways", "Inventory Systems"]
+      },
+      {
+        "title": "PWA Development",
+        "description": "Progressive Web Apps that offer a native-app-like experience directly in the web browser with offline capabilities.",
+        "icon": "Smartphone",
+        "features": ["Offline Access", "Push Notifications", "Fast Load Times"]
+      },
+      {
+        "title": "CMS Solutions",
+        "description": "Custom WordPress, Drupal, or headless CMS implementations that give your team full control over content.",
+        "icon": "Layout",
+        "features": ["Headless CMS", "WordPress Customization", "Content Strategy"]
+      },
+      {
+        "title": "Web Security",
+        "description": "Implementation of SSL, firewalls, and best practices (OWASP) to protect your data and your users.",
+        "icon": "ShieldCheck",
+        "features": ["SSL/TLS Implementation", "DDoS Protection", "Penetration Testing"]
+      },
+      {
+        "title": "API Development",
+        "description": "Robust RESTful and GraphQL APIs to connect your web application with mobile apps and third-party services.",
+        "icon": "Server",
+        "features": ["REST & GraphQL", "Microservices", "Secure Endpoints"]
+      }
+    ],
+    "reasons": [
+      {
+        "title": "Speed to Market",
+        "description": "Our agile methodology ensures rapid iteration and faster deployment without compromising quality."
+      },
+      {
+        "title": "Scalable Architecture",
+        "description": "We build systems designed to grow with your business, handling millions of users effortlessly."
+      },
+      {
+        "title": "SEO Optimized",
+        "description": "Technical SEO is baked into our code structure, ensuring your site ranks well from day one."
+      },
+      {
+        "title": "Responsive Design",
+        "description": "We ensure your site looks perfect on every device, from massive desktops to small mobile screens."
+      },
+      {
+        "title": "Transparent Process",
+        "description": "You have full visibility into our code repositories and project management tools throughout the build."
+      }
+    ],
+    "process": [
+      {
+        "title": "Architecture Design",
+        "description": "We map out the database schema, server structure, and frontend flow to ensure scalability."
+      },
+      {
+        "title": "Agile Development",
+        "description": "Sprints, daily standups, and continuous delivery to keep progress visible and adaptable."
+      },
+      {
+        "title": "Deployment & Scale",
+        "description": "We handle the launch on AWS/Azure and set up monitoring for immediate post-launch optimization."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Which tech stack do you recommend?",
+        "answer": "It depends on your specific needs. We work with React, Vue, Angular, Node, Python, and more. We'll recommend the best tool for the job."
+      },
+      {
+        "question": "Is my website mobile-friendly?",
+        "answer": "Yes, we follow a mobile-first approach ensuring your site looks perfect and functions flawlessly on all devices."
+      },
+      {
+        "question": "Do you provide hosting?",
+        "answer": "We can set up and manage cloud hosting environments on AWS, Google Cloud, or Azure, or work with your existing provider."
+      },
+      {
+        "question": "Can you update my existing website?",
+        "answer": "Yes, we specialize in modernizing legacy websites and refactoring code for better performance."
+      }
+    ]
+  },
+  "ux-ui-design": {
+    "hero": {
+      "title": "UX/UI Design Services",
+      "subtitle": "Design That Delights. Interfaces That Convert. We conduct deep user research to build intuitive, navigable, and accessible designs that drive business results.",
+      "cta": "Start Designing"
+    },
+    "subServices": [
+      {
+        "title": "User Research",
+        "description": "Surveys, focus groups, and competitive analysis to understand your users deeply before a single pixel is drawn.",
+        "icon": "Users",
+        "features": ["User Personas", "Journey Mapping", "Competitive Analysis"]
+      },
+      {
+        "title": "Wireframing",
+        "description": "Low and high-fidelity prototypes to visualize flow and functionality before coding begins, saving time and money.",
+        "icon": "Layout",
+        "features": ["Interactive Prototypes", "Information Architecture", "Flow Charts"]
+      },
+      {
+        "title": "Visual Design",
+        "description": "Pixel-perfect UI design systems that align with your brand identity and evoke the right emotional response.",
+        "icon": "PenTool",
+        "features": ["Design Systems", "Brand Integration", "Iconography"]
+      },
+      {
+        "title": "Usability Testing",
+        "description": "Real-user testing sessions to identify friction points and optimize the experience for maximum conversion.",
+        "icon": "CheckCircle2",
+        "features": ["A/B Testing", "Heatmaps", "User Feedback Loops"]
+      },
+      {
+        "title": "Accessibility",
+        "description": "Ensuring your product meets WCAG guidelines so it is usable by everyone, regardless of ability.",
+        "icon": "ShieldCheck",
+        "features": ["WCAG Compliance", "Screen Reader Optimization", "Color Contrast Checks"]
+      },
+      {
+        "title": "Design Systems",
+        "description": "Creating reusable component libraries to ensure consistency across all your digital products and speed up dev.",
+        "icon": "Figma",
+        "features": ["Component Libraries", "Style Guides", "Documentation"]
+      }
+    ],
+    "reasons": [
+      {
+        "title": "Data-Driven Design",
+        "description": "We don't just guess. We use data and user feedback to inform every design decision we make."
+      },
+      {
+        "title": "Collaborative Process",
+        "description": "We work closely with your stakeholders to ensure the design meets both user needs and business goals."
+      },
+      {
+        "title": "Developer Handoff",
+        "description": "We provide detailed specs, assets, and CSS/code snippets to ensure the final product matches the design exactly."
+      },
+      {
+        "title": "Conversion Focused",
+        "description": "Our designs aren't just pretty; they are engineered to guide users toward your key conversion actions."
+      },
+      {
+        "title": "Brand Consistency",
+        "description": "We ensure your digital presence perfectly reflects your established brand voice and visual identity."
+      }
+    ],
+    "process": [
+      {
+        "title": "Discovery",
+        "description": "Understanding user personas, pain points, and business objectives through workshops and research."
+      },
+      {
+        "title": "Ideation",
+        "description": "Sketching, wireframing, and exploring different design directions to find the best solution."
+      },
+      {
+        "title": "Refinement",
+        "description": "Polishing the UI, testing with real users, and finalizing the design system for handoff."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What tools do you use?",
+        "answer": "We primarily use Figma, Adobe XD, and Sketch for design and prototyping, ensuring industry-standard compatibility."
+      },
+      {
+        "question": "Do you do branding?",
+        "answer": "Yes, we can help define your logo, color palette, typography, and brand voice as part of the UI process."
+      },
+      {
+        "question": "How long does a design project take?",
+        "answer": "It varies, but typically a full app design takes 4-8 weeks depending on complexity and feedback cycles."
+      },
+      {
+        "question": "Do I own the designs?",
+        "answer": "Yes, once the project is complete and paid for, you own 100% of the source files and intellectual property."
+      }
+    ]
+  },
+  "custom-software": {
+    "hero": {
+      "title": "Custom Software Solutions",
+      "subtitle": "Bespoke software tailored to your specific workflow. Off-the-shelf solutions have limits. We build custom software that fits your business like a glove.",
+      "cta": "Build Custom Software"
+    },
+    "subServices": [
+      {
+        "title": "Enterprise ERP",
+        "description": "Centralized systems to manage day-to-day business activities like accounting, procurement, and project management.",
+        "icon": "Monitor",
+        "features": ["Centralized Data", "Automated Reporting", "Custom Modules"]
+      },
+      {
+        "title": "CRM Development",
+        "description": "Custom tools to manage customer interactions, sales pipelines, and support tickets exactly how your sales team works.",
+        "icon": "Users",
+        "features": ["Sales Automation", "Customer Insights", "Ticket Management"]
+      },
+      {
+        "title": "SaaS Product Dev",
+        "description": "Building multi-tenant cloud software products from MVP to scale, designed for subscription-based business models.",
+        "icon": "Cloud",
+        "features": ["Multi-tenancy", "Subscription Billing", "Scalable Infrastructure"]
+      },
+      {
+        "title": "Legacy Modernization",
+        "description": "Updating old, slow systems with modern tech stacks without losing data or disrupting business operations.",
+        "icon": "RefreshCcw",
+        "features": ["Code Refactoring", "Cloud Migration", "UI Modernization"]
+      },
+      {
+        "title": "Workflow Automation",
+        "description": "Automating repetitive tasks to save time and reduce human error using custom scripts and bots.",
+        "icon": "Zap",
+        "features": ["Process Mapping", "Bot Development", "Integration Scripts"]
+      },
+      {
+        "title": "API Integration",
+        "description": "Connecting your disparate software tools into a unified ecosystem where data flows freely between apps.",
+        "icon": "GitBranch",
+        "features": ["Unified Dashboards", "Data Sync", "Third-party Connectors"]
+      }
+    ],
+    "reasons": [
+      {
+        "title": "Domain Expertise",
+        "description": "We have deep experience in Finance, Healthcare, Logistics, and Retail. We understand your industry jargon and needs."
+      },
+      {
+        "title": "Security First",
+        "description": "We build with security in mind from day one, ensuring your proprietary data and trade secrets are safe."
+      },
+      {
+        "title": "Ownership",
+        "description": "You own 100% of the code and intellectual property we create. No licensing fees, ever."
+      },
+      {
+        "title": "Competitive Advantage",
+        "description": "Custom software gives you features your competitors don't have, allowing you to operate more efficiently."
+      },
+      {
+        "title": "Scalability",
+        "description": "Our solutions are built to grow. As your company expands, your software expands with it."
+      }
+    ],
+    "process": [
+      {
+        "title": "Business Analysis",
+        "description": "We sit down with your team to map current workflows and identify bottlenecks."
+      },
+      {
+        "title": "Solution Architecture",
+        "description": "Designing a custom system architecture that solves your specific problems efficiently."
+      },
+      {
+        "title": "Development",
+        "description": "Building the software with regular demos and feedback loops to ensure it meets your needs."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Who owns the code?",
+        "answer": "You do. Once the project is complete and paid for, the IP is 100% yours."
+      },
+      {
+        "question": "Can you integrate with our existing tools?",
+        "answer": "Yes, we specialize in integrating with Salesforce, SAP, HubSpot, QuickBooks, and virtually any tool with an API."
+      },
+      {
+        "question": "How do you handle data migration?",
+        "answer": "We have dedicated specialists to safely extract, transform, and load (ETL) your data from old systems to the new one."
+      },
+      {
+        "question": "Is custom software expensive?",
+        "answer": "Initial costs are higher than off-the-shelf, but the long-term ROI from efficiency gains and no licensing fees often makes it cheaper."
+      }
+    ]
+  },
+  "maintenance-support": {
+    "hero": {
+      "title": "Maintenance & Support",
+      "subtitle": "24/7 monitoring, updates, and long-term care. Software isn't 'set it and forget it'. We provide the care your digital assets need.",
+      "cta": "Get Support"
+    },
+    "subServices": [
+      {
+        "title": "24/7 Monitoring",
+        "description": "Real-time tracking of server health, uptime, and performance metrics to catch issues before users do.",
+        "icon": "Monitor",
+        "features": ["Uptime Checks", "Performance Alerts", "Server Health"]
+      },
+      {
+        "title": "Security Patches",
+        "description": "Regular updates to protect against new vulnerabilities and threats as they emerge.",
+        "icon": "Lock",
+        "features": ["Vulnerability Scanning", "Patch Management", "Firewall Updates"]
+      },
+      {
+        "title": "Bug Fixes",
+        "description": "Rapid resolution of any issues that arise in your production environment, guaranteed by SLAs.",
+        "icon": "Terminal",
+        "features": ["SLA Guarantees", "Issue Tracking", "Root Cause Analysis"]
+      },
+      {
+        "title": "Performance Tuning",
+        "description": "Optimizing database queries and code to keep your app fast as your user base grows.",
+        "icon": "Zap",
+        "features": ["Database Indexing", "Caching Strategies", "Code Optimization"]
+      },
+      {
+        "title": "Feature Enhancements",
+        "description": "Adding new small features and improvements based on user feedback without full development cycles.",
+        "icon": "Code",
+        "features": ["Agile Improvements", "User Feedback Implementation", "Minor Upgrades"]
+      },
+      {
+        "title": "Backup & Recovery",
+        "description": "Regular backups and disaster recovery planning to prevent data loss in any scenario.",
+        "icon": "Database",
+        "features": ["Automated Backups", "Disaster Recovery Plan", "Data Restoration"]
+      }
+    ],
+    "reasons": [
+      {
+        "title": "Proactive Approach",
+        "description": "We don't just wait for things to break. We fix potential issues before your users even notice them."
+      },
+      {
+        "title": "Dedicated Team",
+        "description": "You get a team that knows your codebase inside and out, not a random support agent."
+      },
+      {
+        "title": "Transparent Reporting",
+        "description": "Weekly reports on health status, updates performed, and future recommendations."
+      },
+      {
+        "title": "Cost Effective",
+        "description": "Preventing downtime is far cheaper than fixing a catastrophic failure. Our plans are predictable."
+      },
+      {
+        "title": "Peace of Mind",
+        "description": "Sleep easy knowing experts are watching your infrastructure 24/7/365."
+      }
+    ],
+    "process": [
+      {
+        "title": "Audit",
+        "description": "We assess your current system health, security status, and backup protocols."
+      },
+      {
+        "title": "Onboarding",
+        "description": "Setting up monitoring tools, access protocols, and communication channels."
+      },
+      {
+        "title": "Management",
+        "description": "Continuous monitoring, updating, and reporting. We handle the headaches."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Do you support code you didn't write?",
+        "answer": "Yes, we can take over maintenance for existing codebases after an initial audit to ensure code quality."
+      },
+      {
+        "question": "What are your support hours?",
+        "answer": "We offer packages ranging from standard business hours to full 24/7/365 coverage for critical systems."
+      },
+      {
+        "question": "How do we report issues?",
+        "answer": "You'll have access to a dedicated ticketing system and a direct line to your project manager."
+      },
+      {
+        "question": "Is there a minimum contract?",
+        "answer": "We generally recommend 6-month terms to ensure we can provide meaningful stability improvements."
+      }
+    ]
+  },
+  "technology-choice": {
+    "hero": {
+      "title": "Technology Choice",
+      "subtitle": "We work with YOUR preferred tech stack. React, Node, Python, .NET? We have experts in almost every modern language and framework.",
+      "cta": "View Tech Stack"
+    },
+    "subServices": [
+      {
+        "title": "Front-End",
+        "description": "Creating stunning, responsive user interfaces using the modern web's most powerful frameworks.",
+        "icon": "Layout",
+        "features": ["React / Next.js", "Angular", "Vue.js", "Tailwind CSS"]
+      },
+      {
+        "title": "Back-End",
+        "description": "Robust server-side logic using proven technologies that scale securely.",
+        "icon": "Server",
+        "features": ["Node.js", "Python (Django/Flask)", ".NET / C#", "Java (Spring)"]
+      },
+      {
+        "title": "Mobile",
+        "description": "Native and cross-platform mobile development for reach and performance.",
+        "icon": "Smartphone",
+        "features": ["Swift (iOS)", "Kotlin (Android)", "React Native", "Flutter"]
+      },
+      {
+        "title": "Database",
+        "description": "Secure data storage solutions optimized for your specific data structure and volume.",
+        "icon": "Database",
+        "features": ["PostgreSQL", "MongoDB", "SQL Server", "Redis"]
+      },
+      {
+        "title": "Cloud & DevOps",
+        "description": "Infrastructure as code and cloud-native deployments for maximum uptime.",
+        "icon": "Cloud",
+        "features": ["AWS / Azure / GCP", "Docker & Kubernetes", "Jenkins / CI/CD"]
+      },
+      {
+        "title": "Emerging Tech",
+        "description": "Cutting-edge solutions for forward-thinking business problems.",
+        "icon": "Cpu",
+        "features": ["AI / ML (TensorFlow)", "Blockchain", "IoT"]
+      }
+    ],
+    "reasons": [
+      {
+        "title": "No Vendor Lock-in",
+        "description": "We recommend what's best for YOU, not what's easiest for us. We believe in open standards."
+      },
+      {
+        "title": "Future Proofing",
+        "description": "We use modern, widely-supported technologies to ensure your software remains viable for years."
+      },
+      {
+        "title": "Expert Vetting",
+        "description": "Our developers are tested specifically on the technologies they claim to know. We verify expertise."
+      },
+      {
+        "title": "Tech Agnostic Advice",
+        "description": "We can objectively compare stacks (e.g., React vs. Angular) to help you make the right decision."
+      },
+      {
+        "title": "Full-Stack Capabilities",
+        "description": "We have the breadth to handle every layer of your application stack in-house."
+      }
+    ],
+    "process": [
+      {
+        "title": "Requirement Analysis",
+        "description": "We analyze your project needs, performance requirements, and team skills."
+      },
+      {
+        "title": "Tech Selection",
+        "description": "We recommend the optimal stack or validate your existing choice against industry best practices."
+      },
+      {
+        "title": "Execution",
+        "description": "We assemble a team of experts specialized in that specific stack to build your product."
+      }
+    ],
+    "faqs": [
+      {
+        "question": "Can you migrate us to a new stack?",
+        "answer": "Yes, we specialize in legacy modernization and re-platforming (e.g., moving from PHP to Node.js)."
+      },
+      {
+        "question": "Do you have AI experts?",
+        "answer": "Yes, we have a dedicated practice for Data Science and AI engineering using Python and TensorFlow."
+      },
+      {
+        "question": "What if I don't know what tech to use?",
+        "answer": "Our solution architects will guide you to the best choice based on your budget, scalability needs, and goals."
+      },
+      {
+        "question": "Do you support .NET?",
+        "answer": "Absolutely. We have a strong team of enterprise-grade .NET and C# developers."
+      }
+    ]
+  }
+}
