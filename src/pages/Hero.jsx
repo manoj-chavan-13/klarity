@@ -133,7 +133,7 @@ const Hero = () => (
           </span>
         </button>
         <button className="w-full sm:w-auto px-10 py-5 rounded-full bg-white border border-slate-200 text-slate-900 font-bold text-lg hover:bg-slate-50 hover:border-slate-300 transition-all shadow-sm hover:shadow-lg">
-          View Our Portfolio
+          <a href="/ourwork"> View Our Portfolio</a>
         </button>
       </div>
     </div>

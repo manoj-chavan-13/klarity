@@ -57,9 +57,9 @@ const Footer = () => {
           <div className="mb-16">
             {/* Logo matched exactly to Navbar */}
             <a href="/" className="flex items-center group w-fit mb-6">
-              <div className="w-10 h-10 bg-indigo-600 rounded-lg flex items-center justify-center mr-3 transform group-hover:rotate-3 transition-transform duration-300 shadow-indigo-200 shadow-lg">
+              {/* <div className="w-10 h-10 bg-indigo-600 rounded-lg flex items-center justify-center mr-3 transform group-hover:rotate-3 transition-transform duration-300 shadow-indigo-200 shadow-lg">
                 <span className="text-white font-black text-xl">K</span>
-              </div>
+              </div> */}
               <span className="text-3xl font-extrabold text-gray-900 tracking-tight group-hover:text-indigo-900 transition-colors">
                 Klarity<span className="text-rose-500">.</span>
               </span>

@@ -18,6 +18,7 @@ import BlogPage from "./pages/BlogPage";
 import ContactUsPage from "./pages/ContactUs";
 import NotFoundPage from "./pages/NoFound";
 import GetQuotePage from "./pages/GetQoute";
+import OurWorkPage from "./pages/OurWorkPage";
 
 // --- Placeholder Components (Create these files later) ---
 // Replace these lines with real imports as you build the pages:
@@ -61,6 +62,7 @@ function App() {
           <Route path="/blogs" element={<BlogPage />} />
           <Route path="/contact" element={<ContactUsPage />} />
           <Route path="/quote" element={<GetQuotePage />} />
+          <Route path="/ourwork" element={<OurWorkPage />} />
 
           {/* 4. Catch-all for 404 */}
           <Route path="*" element={<NotFoundPage />} />
